@@ -9,5 +9,5 @@
    npm install
 
 2. Запустіть проект:
-   
+   ```bash
    npm run dev
