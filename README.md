@@ -11,3 +11,7 @@
 2. Запустіть проект:
    ```bash
    npm run dev
+
+3. Переходимо по посиланню http://localhost:5173/
+   ```bash
+   http://localhost:5173/
